@@ -1,0 +1,10 @@
+/* Common Css Start */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* ||Common Css End|| */
+.banner_content{
+    position: absolute;
+    inset: 0;
+    background-color: rgb(29, 29, 29, 70%);
+}
