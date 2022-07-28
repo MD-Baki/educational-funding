@@ -1,10 +1,5 @@
 /* Common Css Start */
-body{
-    font-family: 'Poppins', sans-serif;
-}
-a{
-    text-decoration: none;
-}
+body{font-family: 'Poppins', sans-serif;}
 /* ||Common Css End|| */
 .banner_content{
     position: absolute;
